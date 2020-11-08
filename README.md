@@ -4,7 +4,6 @@
 
 For this exercise, you'll be building DUCK HUNT, using HTML, CSS, and JavaScript.
 
-## Exercise
 
 #### Starter Code
 
